@@ -23,6 +23,5 @@
         <mapping class="Lemma"></mapping>
         <mapping class="Page"></mapping>
         <mapping class="Site"></mapping>
-
     </session-factory>
 </hibernate-configuration>
